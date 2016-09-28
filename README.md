@@ -1,4 +1,4 @@
 # flowlayout
 标签流（自定义view）
 
-![image](https://github.com/dongyeforever/flowlayout/raw/master/Screenshot——tk.dongye.flowlayout.png)
+![image](https://github.com/dongyeforever/flowlayout/tree/master/raw/Screenshot——tk.dongye.flowlayout.png)
